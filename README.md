@@ -1,16 +1,13 @@
-### Hi there 👋
+# Jeferson Soares
 
-<!--
-**HeadEnemy/HeadEnemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Saudações :alien: :wave:
+Seja muito bem-vindo
+Mais um dos apaixonados pela programação, e em resolver problemas com codigos e lógica - 
+Sou estudante de Desenvolvimento WEB :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> :hearts: Estou estudando de forma auto-didata pela Udemy;
+<br/> :space_invader: No momento, buscando desenvolver ainda mais minhas habilidades de programação, mas ficarei feliz em ajudar se possivel;
+<br/> :notebook: Interessado nas stacks: React Native, ReactJS, Node.js, Typescript, SQL banco de dados;
+<br/> :incoming_envelope: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JefersonSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HeadEnemy/)](https://www.linkedin.com/in/HeadEnemy/)
+ | 
+[![Gmail Badge](https://img.shields.io/badge/-headenemy360@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:headenemy360@outlook.com)](mailto:headenemy360@outlook.com)
